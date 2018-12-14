@@ -1,0 +1,1 @@
+void removeChildren( Node *parent );
